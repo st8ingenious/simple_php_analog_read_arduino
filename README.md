@@ -32,4 +32,3 @@
      
      
  Original can be found at https://github.com/st8ingenious/simple_php_analog_read_arduino
--->
