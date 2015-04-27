@@ -29,7 +29,8 @@
      
      No other configuration is required, just connect your Arduino to any router.
      
-     <<See the result at "http:// example.com/analog/" (change " example.com" with your own site URL)>>
+     <<See the result at "http:// example.com/analog/" 
+     (change " example.com" with your own site URL)>>
      
  ![screenshot] (https://github.com/st8ingenious/simple_php_analog_read_arduino/blob/master/screenshot.jpg?raw=true)
      
