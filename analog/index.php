@@ -95,7 +95,7 @@ Auto refresh in <span id="timer">5</span> seconds
 <br>
 <?php endif ?>
 <pre>
-©2015 bettercallstathis.com 
+©2015 http://bettercallstathis.com 
    All rights reserved
    </pre>
 </body>
