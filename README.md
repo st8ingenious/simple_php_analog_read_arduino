@@ -30,6 +30,6 @@
      
      <<See the result at "http:// example.com/analog/" (change " example.com" with your own site URL)>>
      
-     ![screenshot] (https://raw.githubusercontent.com/st8ingenious/simple_php_analog_read_arduino/master/screenshot.jpg)
+ ![screenshot] (https://github.com/st8ingenious/simple_php_analog_read_arduino/blob/master/screenshot.jpg?raw=true)
      
  Original can be found at https://github.com/st8ingenious/simple_php_analog_read_arduino
