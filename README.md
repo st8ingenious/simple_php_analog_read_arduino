@@ -30,5 +30,6 @@
      
      <<See the result at "http:// example.com/analog/" (change " example.com" with your own site URL)>>
      
+     ![screenshot](/screenshot.jpg?raw=true )
      
  Original can be found at https://github.com/st8ingenious/simple_php_analog_read_arduino
