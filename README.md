@@ -2,13 +2,12 @@
     
 Description     
 Send analog pin readings from Arduino UNO with Ethernet shield to a webserver directly.
-No need for SQL database or Arduino local webserver
+No need for SQL database or Arduino local webserver.
 All values are stored in a txt file on the server.
      
 Setup: 
 Upload "analog" folder to your server (like this "yoursite.com/analog/").
-REPLACE "yourwebsitehere" in line 39 of the arduino sketch, 
-with your website (without www) and upload it to Arduino UNO.
+REPLACE "yourwebsitehere" in line 39 of the arduino sketch, with your website (without www) and upload it to Arduino UNO.
      
 No other configuration is required, just connect your Arduino to any router.
      
