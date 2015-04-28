@@ -6,8 +6,8 @@ No need for SQL database or Arduino local webserver
 All values are stored in a txt file on the server.
      
 Setup:
-1. Upload "analog" folder to your server (like this "yoursite.com/analog/").
-2. REPLACE "yourwebsitehere" in line 39 of the arduino sketch, 
+> Upload "analog" folder to your server (like this "yoursite.com/analog/").
+> REPLACE "yourwebsitehere" in line 39 of the arduino sketch, 
 with your website (without www) and upload it to Arduino UNO.
      
 No other configuration is required, just connect your Arduino to any router.
